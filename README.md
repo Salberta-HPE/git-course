@@ -7,3 +7,6 @@ Sample text for testing in Class
 Some other Text for testing
 
 Upstream Changes made - this will require a pull from git
+
+Second Day Changes
+
